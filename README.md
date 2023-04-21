@@ -1,9 +1,9 @@
 # Requisites 
 
 * [Tkinter](https://pypi.org/project/tk-tools/) for to create graphical user interfaces (GUIs)
-* [Mediapipe](https://pypi.org/project/mediapipe/)for Recognizing hand gestures
-* [Autopy](https://pypi.org/project/autopy/)for pointers
-* [Pydirectinput](https://pypi.org/project/PyDirectInput/)for keyboard inputs.
+* [Mediapipe](https://pypi.org/project/mediapipe/) for Recognizing hand gestures
+* [Autopy](https://pypi.org/project/autopy/) for pointers
+* [Pydirectinput](https://pypi.org/project/PyDirectInput/) for keyboard inputs.
 
 # Explanation
 
