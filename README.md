@@ -1,4 +1,11 @@
-# Hand-Gestures-using-mediapipe
+# Requisites 
+
+* [Tkinter](https://pypi.org/project/tk-tools/) for to create graphical user interfaces (GUIs)
+* [Mediapipe](https://pypi.org/project/mediapipe/)for Recognizing hand gestures
+* [Autopy](https://pypi.org/project/autopy/)for pointers
+* [Pydirectinput](https://pypi.org/project/PyDirectInput/)for keyboard inputs.
+
+# Explanation
 
 -The code is a Python script that uses the Mediapipe library to detect hand landmarks from a live video stream and then performs mouse and keyboard actions based on the hand gestures.
 
